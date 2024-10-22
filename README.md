@@ -7,7 +7,7 @@ Projeto de teste para processo seletivo Keeggo.
 É necessário instalar o Node.js e npm para rodar esse projeto.
 
   Eu utilizei as versões:
-> Node.js 'v16.16.0'  e
+> Node.js 'v16.16.0'
 > npm 'v8.11.0'
 > Cypress 'v13.15.0'
 > cypress-cucumber-preprocessor 'v4.3.1' 
